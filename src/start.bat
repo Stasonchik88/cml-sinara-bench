@@ -1,0 +1,2 @@
+python sinara.py
+pause
